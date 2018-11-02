@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#top {
+  width: 100%;
+  height: 35vh;
+}
+
+#bottom {
+  border-top: 2px solid black;
+  width: 100%;
+  height: 65vh;
+}
